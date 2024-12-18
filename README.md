@@ -1,1 +1,1 @@
-# walden
+This project uses a Markov Chain approach to generate sentences based on word pair probabilities from a given text file. It reads the input text, calculates word pair frequencies, and generates sentences starting from a user-defined word.
